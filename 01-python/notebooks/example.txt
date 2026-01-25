@@ -1,0 +1,4 @@
+Line 1: Hello World
+Line 2: Python is amazing
+Line 3: File I/O is easy
+Line 4: This was appended!
